@@ -1,20 +1,17 @@
-# 👾 Brend
-**`Full-Stack Developer `**
 
+# Brend 👾
+
+
+**`Full-Stack Developer `**
 
 <img 
     align="left" 
     alt="Frieren" 
     title="Frieren"
-    width="100px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHozMHBqc3B3bW5rb2g2bXpqbXA0eXlnZDlubzJraHA2YWRlcGN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jNIgryrdADGz0s91Dg/giphy.gif"
 />
-</br>
-</br>
-</br>
-</br>
-
 
 Hello! My name is Brend, I am from Brazil. Graduated in Computer Technician, I am a Graphic Designer, an enthusiast in Computer Networks. Currently, I am learning about Web Programming and Game and Systems Development. ✨
 
